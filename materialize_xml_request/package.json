@@ -1,0 +1,11 @@
+{
+  "name": "materialize_xml_request",
+  "version": "1.0.0",
+  "description": "This is simple project to show basic concepts with Materialize and XML Request integration with a API make a Spring Boot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tiago Marques",
+  "license": "ISC"
+}
